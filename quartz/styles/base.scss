@@ -124,6 +124,10 @@ a {
   max-width: calc(#{map-get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
   & article {
+
+    & > p {
+      font-size: 1.2rem;
+    }
     & > h1 {
       font-size: 2rem;
     }
