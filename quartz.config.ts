@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Vignesh Marimuthu",
-    pageTitleSuffix: "",
+    pageTitle: "Vignesh's Dumpster 🗑️",
+    pageTitleSuffix: " - Vignesh Marimuthu",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "veeyaarvr.github.io/second-brain",
+    baseUrl: "dumpster.vigneshmarimuthu.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
