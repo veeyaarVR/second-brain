@@ -5,7 +5,7 @@ tags:
   - snippets
   - coding
 ---
-```
+``` dart
 class ColorGeneratorHelper {
   /// generates a custom color based on the [inputString] provided
   Color generateColorByString(String inputString) {
