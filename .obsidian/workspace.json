@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "75526be7740146d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5611b41fd6f91d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fd0b9e3a87882f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95f85cd8179b25f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "28cb78ba4a2d85ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8d842680c6dbe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a364a84299d8971b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69ac19cb332498e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd1258664e0df494",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d83023945f09522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "866039958e9fac01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Notes/Generate color by String.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Generate color by String"
+            }
+          },
+          {
+            "id": "1ca05680f4a8fdcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Notes/Generate color by String.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Generate color by String"
+            }
+          },
+          {
+            "id": "7f5246fa5c38c7b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d3c176e52aed228",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Notes/Generate color by String.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Generate color by String"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2fd0b9e3a87882f6",
+  "lastOpenFiles": [
+    "content/places/Bangalore.md",
+    "content/places",
+    "content/people/Seneca.md",
+    "content/people/Marcus Aurelius.md",
+    "content/people",
+    "content/Notes/It is a small part of life we really live.md",
+    "content/Notes/If it's endurable, then endure it. Stop complaining.md",
+    "content/attachments/Pasted image 20241017184735.png",
+    "content/attachments/Pasted image 20241017184319.png",
+    "content/attachments/Pasted image 20241017184317.png",
+    "content/attachments/Pasted image 20241017183711.png",
+    "content/attachments/Pasted image 20241017183514.png",
+    "content/attachments/Pasted image 20241017183230.png",
+    "content/Notes/d8.md",
+    "content/Notes/What it is to be an Android Developer.md",
+    "content/Notes/Some topics and titles that I want to write a post on.md",
+    "content/Notes/Skip Intro.md",
+    "content/Notes/SSL (Secure Sockets Layer).md",
+    "content/Notes/Quote by Seneca.md",
+    "content/Notes/Platform Libraries.md",
+    "content/Notes/Mind Garden.md",
+    "content/Notes/Linux Kernel.md",
+    "content/Notes/Generate color by String.md",
+    "content/Notes/Dalvik Executable format (DEX).md",
+    "content/Notes/Ask not what the Internet can do for you, ask what you can do for the Internet.md",
+    "content/Notes/Architecture of Android.md",
+    "content/Notes/Applications - Layer in Android Architecture.md",
+    "content/Notes/Application Framework.md",
+    "content/Notes/Android Runtime.md",
+    "content/Notes/Android Runtime (ART).md",
+    "content/Notes/Ahead of Time Compilation (AOT).md",
+    "content/Notes/Abstraction.md",
+    "content/Bookmarks/We make shitty software so do you.md",
+    "content/Bookmarks/The Art of Linux CLIs.md",
+    "content/attachments",
+    "content/Notes",
+    "content/Bookmarks",
+    "content",
+    "public/Notes/abstraction.html",
+    "public/404.html",
+    "public/attachments/Pasted-image-20241017184735.png",
+    "public/attachments/Pasted-image-20241017184319.png",
+    "public/attachments/Pasted-image-20241017184317.png",
+    "public/attachments/Pasted-image-20241017183711.png",
+    "public/attachments",
+    "public/static/contentIndex.json"
+  ]
+}
