@@ -11,10 +11,14 @@
             "id": "2fd0b9e3a87882f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Notes/Gift giving & receiving.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Gift giving & receiving"
             }
           }
         ]
@@ -160,6 +164,13 @@
   },
   "active": "2fd0b9e3a87882f6",
   "lastOpenFiles": [
+    "content/Notes/100 songs to get to know me.md",
+    "content/Notes/Gift giving & receiving.md",
+    "content/bookmarks/70 Leetcode problems in 5 hours.md",
+    "content/Notes/The Learning Pyramid.md",
+    "content/bookmarks/Inspirations.md",
+    "content/attachments/Pasted image 20241019111358.png",
+    "content/Notes/Abstraction.md",
     "content/places/Bangalore.md",
     "content/places",
     "content/people/Seneca.md",
@@ -188,12 +199,6 @@
     "content/Notes/Architecture of Android.md",
     "content/Notes/Applications - Layer in Android Architecture.md",
     "content/Notes/Application Framework.md",
-    "content/Notes/Android Runtime.md",
-    "content/Notes/Android Runtime (ART).md",
-    "content/Notes/Ahead of Time Compilation (AOT).md",
-    "content/Notes/Abstraction.md",
-    "content/Bookmarks/We make shitty software so do you.md",
-    "content/Bookmarks/The Art of Linux CLIs.md",
     "content/attachments",
     "content/Notes",
     "content/Bookmarks",
@@ -203,7 +208,6 @@
     "public/attachments/Pasted-image-20241017184735.png",
     "public/attachments/Pasted-image-20241017184319.png",
     "public/attachments/Pasted-image-20241017184317.png",
-    "public/attachments/Pasted-image-20241017183711.png",
     "public/attachments",
     "public/static/contentIndex.json"
   ]
