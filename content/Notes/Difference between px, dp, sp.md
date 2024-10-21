@@ -41,3 +41,6 @@ Millimeters: based on the physical size of the screen.
 Inches: based on the physical size of the screen.
 
 ---
+#### Reference
+- [More resource types  |  Android Developers](https://developer.android.com/guide/topics/resources/more-resources.html#Dimension)
+- [android - What is the difference between px, dip, dp, and sp? - Stack Overflow](https://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dip-dp-and-sp) 
