@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5611b41fd6f91d7",
+        "id": "7085e42fbe0c478a",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd0b9e3a87882f6",
+            "id": "60c62a71ae8fe377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Sketch and manipulate 3d objects online.md",
+                "file": "content/Bookmarks/StackOverflow - Android faq interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sketch and manipulate 3d objects online"
+              "title": "StackOverflow - Android faq interview"
             }
           }
         ]
@@ -162,12 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fd0b9e3a87882f6",
+  "active": "60c62a71ae8fe377",
   "lastOpenFiles": [
+    "content/Notes/Generate color by String.md",
+    "content/Bookmarks/StackOverflow - Android faq interview.md",
+    "content/Notes/The Learning Pyramid.md",
+    "content/Notes/Sketch and manipulate 3d objects online.md",
     "content/now.md",
     "content/index.md",
     "content/attachments/JustSketchMe - Screenshot.png",
-    "content/Notes/Sketch and manipulate 3d objects online.md",
     "content/people/Seneca.md",
     "content/people/Marcus Aurelius.md",
     "content/people",
@@ -181,7 +184,6 @@
     "content/places/Bangalore.md",
     "content/places",
     "content/Notes/What it is to be an Android Developer.md",
-    "content/Notes/The Learning Pyramid.md",
     "content/Notes/SSL (Secure Sockets Layer).md",
     "content/Notes/Some topics and titles that I want to write a post on.md",
     "content/Notes/Skip Intro.md",
@@ -191,7 +193,6 @@
     "content/Notes/It is a small part of life we really live.md",
     "content/Notes/If it's endurable, then endure it. Stop complaining.md",
     "content/Notes/Gift giving & receiving.md",
-    "content/Notes/Generate color by String.md",
     "content/Notes/Dalvik Executable format (DEX).md",
     "content/Notes/d8.md",
     "content/Notes/Ask not what the Internet can do for you, ask what you can do for the Internet.md",
@@ -199,7 +200,6 @@
     "content/Notes/Applications - Layer in Android Architecture.md",
     "content/Notes/Application Framework.md",
     "content/Notes/Android Runtime.md",
-    "content/Notes/Android Runtime (ART).md",
     "content/Notes",
     "content/bookmarks",
     "content/attachments/Pasted image 20241019111358.png",
