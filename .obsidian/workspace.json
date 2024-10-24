@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Notes/Quit Bainrot. Unfollow trolls..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Quit Bainrot. Unfollow trolls."
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "60c62a71ae8fe377",
   "lastOpenFiles": [
+    "content/bookmarks/Your world of texts - site to write anything by anyone.md",
+    "content/Notes/Quit Bainrot. Unfollow trolls..md",
+    "content/index.md",
     "content/Notes/100 songs to get to know me.md",
     "docs/advanced/architecture.md",
     "content/places/Bangalore.md",
@@ -195,9 +198,6 @@
     "content/Notes/Dalvik Executable format (DEX).md",
     "content/Notes/Ask not what the Internet can do for you, ask what you can do for the Internet.md",
     "content/Notes/Architecture of Android.md",
-    "content/Notes/Applications - Layer in Android Architecture.md",
-    "content/Notes/Application Framework.md",
-    "content/Notes/Android Runtime.md",
     "content/places",
     "content/people",
     "content/attachments",
